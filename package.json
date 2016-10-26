@@ -1,8 +1,8 @@
 {
-  "name": "KeyAccess",
+  "name": "com.plugin.KeyAccessDemo",
   "version": "0.1",
   "cordova": {
-    "id": "KeyAccessDemo",
+    "id": "com.plugin.KeyAccessDemo",
     "platforms": [
       "android",
       "ios"
