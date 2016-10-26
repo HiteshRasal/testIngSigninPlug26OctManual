@@ -1,0 +1,23 @@
+{
+  "name": "KeyAccess",
+  "version": "0.1",
+  "cordova": {
+    "id": "KeyAccessDemo",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "description": "KeyAccessDemo",
+  "repository": "https://github.com/HiteshRasal/testIngSigninPlug26OctManual",
+  "keywords": [
+    "ionic",
+    "cordova",
+    "KeyAccessFeat",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Ionic",
+  "license": "Apache 2.0"
+}
